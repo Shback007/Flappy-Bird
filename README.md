@@ -24,7 +24,7 @@ Flappy Bird is a legendary mobile game that took the world by storm. The objecti
 - Click on Space Bar or Up Arrow Key to Start the Game.
 - Control the flappy bird's altitude by clicking or tapping to make it flap its wings.
 - Navigate through the pipes, aiming to achieve the highest score possible.
-- Navigate through the pipes, aiming to achieve the highest score possible.
+- If the bird is accidentally comes in contact with any pipe or falls down,the game is over.
 - Click on Space Bar or Up Arrow Key to Restart the Game
 
 ## Usage
