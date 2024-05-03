@@ -27,7 +27,7 @@ Flappy Bird is a legendary mobile game that took the world by storm. The objecti
 - If the bird is accidentally comes in contact with any pipe or falls down,the game is over.
 - Click on Space Bar or Up Arrow Key to Restart the Game
 
-## Usage
+## Usage 
 1. Clone the repository using `git clone https://github.com/your-username/tic-tac-toe.git`.
 2. Open `index.html` in a web browser to play the game, or click on the link at the bottom to open the github deployment.
 3. Click on the buttons to make your moves and enjoy the game!
